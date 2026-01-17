@@ -1,4 +1,4 @@
-# Real-Time AI Sales Agent (Voice) 
+# Real-Time AI Sales Agent (Voice) 🎙️
 
 A production-grade voice AI agent capable of holding natural sales conversations with <500ms latency.
 
@@ -19,13 +19,13 @@ The agent runs a continuous loop:
 This project is designed to run in Google Colab or a local Python environment.
 
 1.  Install dependencies:
-    \\\ash
+    ```bash
     pip install livekit-agents livekit-plugins-openai livekit-plugins-deepgram livekit-plugins-silero
-    \\\
+    ```
 2.  Set API Keys:
-    - \CEREBRAS_API_KEY\
-    - \LIVEKIT_API_KEY\
-    - \DEEPGRAM_API_KEY\
-    - \CARTESIA_API_KEY\
+    - `CEREBRAS_API_KEY`
+    - `LIVEKIT_API_KEY`
+    - `DEEPGRAM_API_KEY`
+    - `CARTESIA_API_KEY`
 
-3.  Run the notebook \irtual_sales_agent.ipynb\.
+3.  Run the notebook `virtual_sales_agent.ipynb`.
