@@ -29,3 +29,7 @@ This project is designed to run in Google Colab or a local Python environment.
     - `CARTESIA_API_KEY`
 
 3.  Run the notebook `virtual_sales_agent.ipynb`.
+
+
+---
+> **Built with [Antigravity](https://deepmind.google)** 
