@@ -32,4 +32,4 @@ This project is designed to run in Google Colab or a local Python environment.
 
 
 ---
-> **Built with [Antigravity](https://deepmind.google)** 
+> **I used [Antigravity](https://deepmind.google)** to automate this ReadMe!
